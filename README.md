@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiva Kumar Tiwari</h1>
+<h2>AI ML Engineer  </h2>
 <h3 align="center">Java & Kotlin enthusiast | Android app development</h3>
 
 - 🌱 I’m currently learning **Data Structure and Algorithm, Kotlin Multiplatform**
