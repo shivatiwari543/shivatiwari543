@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiva Kumar Tiwari</h1>
 <h2>AI ML Engineer --> ML Models + Fast API (Https Methods)  </h2>
-<h3 align="center">Java & Kotlin enthusiast | Android app development</h3>
+<h3 align="center">Data Science enthusiast |AI Engineer| Android app development</h3>
 
 - 🌱 I’m currently learning **Data Structure and Algorithm, Kotlin Multiplatform**
 
